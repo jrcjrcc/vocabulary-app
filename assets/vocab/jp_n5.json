@@ -1,0 +1,5946 @@
+[
+  {
+    "word": "赤",
+    "phonetic": "あか",
+    "definition": "红色",
+    "example": "合 赤鉛筆［あかえんぴつ］（红铅笔）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "秋",
+    "phonetic": "あき",
+    "definition": "秋天",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "朝",
+    "phonetic": "あさ",
+    "definition": "早上，早晨",
+    "example": "連 朝が早［はや］い（早晨起床早）、朝になる（天亮，到了早晨）；合 朝ご飯（早饭）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "朝ご飯",
+    "phonetic": "あさごはん",
+    "definition": "早饭",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "あさって",
+    "phonetic": "あさって",
+    "definition": "后天",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "足",
+    "phonetic": "あし",
+    "definition": "脚，腿",
+    "example": "連 足が長［なが］い（腿长）；合 足跡［あしあと］(足迹，脚印）；慣 足を洗［あら］う（洗手不干，改邪归正）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "明日",
+    "phonetic": "あした",
+    "definition": "明天",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "頭",
+    "phonetic": "あたま",
+    "definition": "头，脑袋",
+    "example": "連 頭がいい（聪明，头脑好）、頭が下［さ］がる（佩服）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "後",
+    "phonetic": "あと",
+    "definition": "后面，后方；以后",
+    "example": "連 食事［しょくじ］の後お茶［ちゃ］を飲［の］む（饭后喝茶）、また後で（回头见）；諺 後の祭［まつ］り（马后炮）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "兄",
+    "phonetic": "あに",
+    "definition": "哥哥",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "姉",
+    "phonetic": "あね",
+    "definition": "姐姐",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "雨",
+    "phonetic": "あめ",
+    "definition": "雨",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "飴",
+    "phonetic": "あめ",
+    "definition": "糖，饴糖",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "家",
+    "phonetic": "いえ",
+    "definition": "房屋；家，家庭",
+    "example": "連 家に帰［かえ］る（回家）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "いくつ",
+    "phonetic": "いくつ",
+    "definition": "几个，多少；几岁",
+    "example": "連 今年［ことし］おいくつですか（你今年几岁了？）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "いくら",
+    "phonetic": "いくら",
+    "definition": "多少（钱、数量等）",
+    "example": "連 この本［ほん］はいくらですか（这本书多少钱）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "池",
+    "phonetic": "いけ",
+    "definition": "池塘",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "医者",
+    "phonetic": "いしゃ",
+    "definition": "医生",
+    "example": "連 医者にかかる（看医生）、医者に診［み］てもらう（请医生看病）；合 歯医者［はいしゃ］（牙医）；類 医師［いし］（医生）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "いす",
+    "phonetic": "いす",
+    "definition": "椅子",
+    "example": "連 いすに座［すわ］る（坐在椅子上）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "一",
+    "phonetic": "いち",
+    "definition": "一；首先，最初；第一，最好",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "一日",
+    "phonetic": "いちにち",
+    "definition": "一天",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "五日",
+    "phonetic": "いつか",
+    "definition": "五天；五日，五号",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "一週間",
+    "phonetic": "いっしゅうかん",
+    "definition": "一周，一个星期",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "五つ",
+    "phonetic": "いつつ",
+    "definition": "五个；五岁",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "犬",
+    "phonetic": "いぬ",
+    "definition": "狗",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "今",
+    "phonetic": "いま",
+    "definition": "现在，此刻",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "意味",
+    "phonetic": "いみ",
+    "definition": "意思",
+    "example": "連 単語［たんご］の意味を調［しら］べる（查单词的意思）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "妹",
+    "phonetic": "いもうと",
+    "definition": "妹妹",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "妹さん",
+    "phonetic": "いもうとさん",
+    "definition": "（您的）妹妹",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "入【り",
+    "phonetic": "いりぐち",
+    "definition": "入口",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "色",
+    "phonetic": "いろ",
+    "definition": "颜色",
+    "example": "連 赤［あか］い色(红色）；合 顔色［かおいろ］（脸色，气色）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "上",
+    "phonetic": "うえ",
+    "definition": "上，上面",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "後ろ",
+    "phonetic": "うしろ",
+    "definition": "后面",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "歌",
+    "phonetic": "うた",
+    "definition": "歌",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "うち",
+    "phonetic": "うち",
+    "definition": "内，里面；我（们）的；自家",
+    "example": "合 内側［うちがわ］（内侧，里面）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "海",
+    "phonetic": "うみ",
+    "definition": "海",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "裏",
+    "phonetic": "うら",
+    "definition": "背面；后边；里子",
+    "example": "連 裏の出口［でぐち］（后面的出口）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "上着",
+    "phonetic": "うわぎ",
+    "definition": "上衣",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "絵",
+    "phonetic": "え",
+    "definition": "画",
+    "example": "連 絵をかく（画画）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "映画",
+    "phonetic": "えいが",
+    "definition": "电影",
+    "example": "連 映画をとる（拍摄电影）、映画を見［み］に行［い］く（去看电影）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "映画館",
+    "phonetic": "えいがかん",
+    "definition": "电影院",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "英語",
+    "phonetic": "えいご",
+    "definition": "英语",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "駅",
+    "phonetic": "えき",
+    "definition": "车站",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "駅前",
+    "phonetic": "えきまえ",
+    "definition": "站前，车站附近",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "円",
+    "phonetic": "えん",
+    "definition": "圆形；日元",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "鉛筆",
+    "phonetic": "えんぴつ",
+    "definition": "铅笔",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "お母さん",
+    "phonetic": "おかあさん",
+    "definition": "妈妈，(您的)母亲",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "お菓子",
+    "phonetic": "おかし",
+    "definition": "（日式）点心",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "お金",
+    "phonetic": "おかね",
+    "definition": "钱",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "お客さん",
+    "phonetic": "おきゃくさん",
+    "definition": "客人，顾客",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "奥さん",
+    "phonetic": "おくさん",
+    "definition": "（对别人妻子的敬称）夫人，太太",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "お酒",
+    "phonetic": "おさけ",
+    "definition": "酒",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "お皿",
+    "phonetic": "おさら",
+    "definition": "盘子",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "おじ",
+    "phonetic": "おじ",
+    "definition": "叔父；伯父；舅舅",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "おじいさん",
+    "phonetic": "おじいさん",
+    "definition": "爷爷，祖父",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "おじさん",
+    "phonetic": "おじさん",
+    "definition": "叔叔，伯伯",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "お茶",
+    "phonetic": "おちゃ",
+    "definition": "茶",
+    "example": "連 お茶を入［い］れる（泡茶，沏茶）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "夫",
+    "phonetic": "おっと",
+    "definition": "丈夫",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "お手洗い",
+    "phonetic": "おてあらい",
+    "definition": "厕所，洗手间",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "お父さん",
+    "phonetic": "おとうさん",
+    "definition": "父亲，爸爸",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "弟",
+    "phonetic": "おとうと",
+    "definition": "弟弟",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "弟さん",
+    "phonetic": "おとうとさん",
+    "definition": "（您的）弟弟",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "男",
+    "phonetic": "おとこ",
+    "definition": "男人，男性",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "男の子",
+    "phonetic": "おとこのこ",
+    "definition": "男孩",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "男の人",
+    "phonetic": "おとこのひと",
+    "definition": "男人",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "一昨日",
+    "phonetic": "おととい",
+    "definition": "前天",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "一昨年",
+    "phonetic": "おととし",
+    "definition": "前年",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "大人",
+    "phonetic": "おとな",
+    "definition": "大人，成年人",
+    "example": "類 成人［せいじん］（成年人）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "お腹",
+    "phonetic": "おなか",
+    "definition": "肚子",
+    "example": "連 おなかが痛［いた］い（肚子疼）、おなかがすいた（肚子饿了）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "お兄さん",
+    "phonetic": "おにいさん",
+    "definition": "哥哥",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "お姉さん",
+    "phonetic": "おねえさん",
+    "definition": "姐姐",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "おば",
+    "phonetic": "おば",
+    "definition": "姑姑；阿姨；婶婶",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "おばあさん",
+    "phonetic": "おばあさん",
+    "definition": "奶奶，祖母",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "おばさん",
+    "phonetic": "おばさん",
+    "definition": "姑姑；姨妈",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "お風呂",
+    "phonetic": "おふろ",
+    "definition": "洗澡水；浴缸",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "お弁当",
+    "phonetic": "おべんとう",
+    "definition": "盒饭，便当",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "お巡りさん",
+    "phonetic": "おまわりさん",
+    "definition": "警察",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "音楽",
+    "phonetic": "おんがく",
+    "definition": "音乐",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "温泉",
+    "phonetic": "おんせん",
+    "definition": "温泉",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "女",
+    "phonetic": "おんな",
+    "definition": "女人，女性",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "女の子",
+    "phonetic": "おんなのこ",
+    "definition": "女孩",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "女の人",
+    "phonetic": "おんなのひと",
+    "definition": "女人；会议",
+    "example": "連 会議を開［ひら］く（举行会议）、会議に出席［しゅっせき］する（出席会议）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "会議室",
+    "phonetic": "かいぎしつ",
+    "definition": "会议室",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "外国",
+    "phonetic": "がいこく",
+    "definition": "外国",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "外国人",
+    "phonetic": "がいこくじん",
+    "definition": "外国人",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "会社",
+    "phonetic": "かいしゃ",
+    "definition": "公司",
+    "example": "合 貿易会社［ぼうえきがいしゃ］（贸易公司）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "会社員",
+    "phonetic": "かいしゃいん",
+    "definition": "公司职员",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "階段",
+    "phonetic": "かいだん",
+    "definition": "台阶，楼梯；阶段",
+    "example": "連 階段を上［あ］がる（上楼梯）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "買い物",
+    "phonetic": "かいもの",
+    "definition": "购物，买东西",
+    "example": "連 買い物をする（购物）、買い物に行［い］く（去购物）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "顔",
+    "phonetic": "かお",
+    "definition": "脸",
+    "example": "連 きれいな顔（漂亮的面孔）、顔を洗［あら］う（洗脸）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "鍵",
+    "phonetic": "かぎ",
+    "definition": "钥匙；关键",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "学生",
+    "phonetic": "がくせい",
+    "definition": "学生",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "傘",
+    "phonetic": "かさ",
+    "definition": "伞",
+    "example": "連 傘をさす（撑伞，打伞）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "風",
+    "phonetic": "かぜ",
+    "definition": "风",
+    "example": "連 風が吹［ふ］く（刮风）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "風邪",
+    "phonetic": "かぜ",
+    "definition": "感冒",
+    "example": "連 風邪を引［ひ］く（感冒）；合 風邪薬［かぜぐすり］（感冒药）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "家族",
+    "phonetic": "かぞく",
+    "definition": "家族",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "方",
+    "phonetic": "かた",
+    "definition": "（对人的尊称）位",
+    "example": "連 この方（这一位）、横井［よこい］さんという方（姓横井的人）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "片仮名",
+    "phonetic": "かたかな",
+    "definition": "片假名",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "形",
+    "phonetic": "かたち",
+    "definition": "形状；形态，形式",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "学校",
+    "phonetic": "がっこう",
+    "definition": "学校",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "角",
+    "phonetic": "かど",
+    "definition": "角；拐角；棱角",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "家内",
+    "phonetic": "かない",
+    "definition": "家中；内人",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "かばん",
+    "phonetic": "かばん",
+    "definition": "包，提包，皮包",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "花瓶",
+    "phonetic": "かびん",
+    "definition": "花瓶",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "紙",
+    "phonetic": "かみ",
+    "definition": "纸",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "火曜日",
+    "phonetic": "かようび",
+    "definition": "周二，星期二",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "体",
+    "phonetic": "からだ",
+    "definition": "身体",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "川",
+    "phonetic": "かわ",
+    "definition": "河",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "漢字",
+    "phonetic": "かんじ",
+    "definition": "汉字",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "木",
+    "phonetic": "き",
+    "definition": "树，树木",
+    "example": "連 木［き］に登［のぼ］る（爬树）、木を植［う］える（植树）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "黄色",
+    "phonetic": "きいろ",
+    "definition": "黄色",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "北",
+    "phonetic": "きた",
+    "definition": "北，北方",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "喫茶店",
+    "phonetic": "きっさてん",
+    "definition": "咖啡馆",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "切手",
+    "phonetic": "きって",
+    "definition": "邮票",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "切符",
+    "phonetic": "きっぷ",
+    "definition": "票，券",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "昨日",
+    "phonetic": "きのう",
+    "definition": "昨天",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "客",
+    "phonetic": "きゃく",
+    "definition": "客人",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "九",
+    "phonetic": "きゅう",
+    "definition": "九",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "牛肉",
+    "phonetic": "ぎゅうにく",
+    "definition": "牛肉",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "牛乳",
+    "phonetic": "ぎゅうにゅう",
+    "definition": "牛奶",
+    "example": "類 ミルク（牛奶）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "今日",
+    "phonetic": "きょう",
+    "definition": "今天",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "教室",
+    "phonetic": "きょうしつ",
+    "definition": "教室",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "兄弟",
+    "phonetic": "きょうだい",
+    "definition": "兄弟姐妹",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "去年",
+    "phonetic": "きょねん",
+    "definition": "去年",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "銀行",
+    "phonetic": "ぎんこう",
+    "definition": "银行",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "金曜日",
+    "phonetic": "きんようび",
+    "definition": "周五，星期五",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "空港",
+    "phonetic": "くうこう",
+    "definition": "机场",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "薬",
+    "phonetic": "くすり",
+    "definition": "药",
+    "example": "連 薬を飲［の］む（吃药）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "果物",
+    "phonetic": "くだもの",
+    "definition": "水果",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "口",
+    "phonetic": "くち",
+    "definition": "嘴",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "靴",
+    "phonetic": "くつ",
+    "definition": "鞋",
+    "example": "連 靴をぬぐ（脱鞋）、靴をはく（穿鞋）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "靴下",
+    "phonetic": "くつした",
+    "definition": "袜子",
+    "example": "連 靴下をはく（穿袜子）、靴下を脱［ぬ］ぐ（脱袜子）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "国",
+    "phonetic": "くに",
+    "definition": "国家",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "曇り",
+    "phonetic": "くもり",
+    "definition": "（天）阴",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "車",
+    "phonetic": "くるま",
+    "definition": "车，轿车",
+    "example": "連 車に乗［の］る（乘坐轿车）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "黒",
+    "phonetic": "くろ",
+    "definition": "黑，黑色",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "警官",
+    "phonetic": "けいかん",
+    "definition": "警察",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "今朝",
+    "phonetic": "けさ",
+    "definition": "今天早上",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "景色",
+    "phonetic": "けしき",
+    "definition": "景色，风景",
+    "example": "連 景色がいい（景色优美）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "消しゴム",
+    "phonetic": "けしごむ",
+    "definition": "橡皮",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "結婚",
+    "phonetic": "けっこん",
+    "definition": "结婚",
+    "example": "合 結婚式［けっこんしき］（婚礼）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "月曜日",
+    "phonetic": "げつようび",
+    "definition": "周一，星期一",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "見学",
+    "phonetic": "けんがく",
+    "definition": "参观学习",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "玄関",
+    "phonetic": "げんかん",
+    "definition": "正门，大门，门口",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "元気",
+    "phonetic": "げんき",
+    "definition": "精神，朝气",
+    "example": "連 元気がない（无精打采）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "五",
+    "phonetic": "ご",
+    "definition": "五",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "公園",
+    "phonetic": "こうえん",
+    "definition": "公园",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "紅茶",
+    "phonetic": "こうちゃ",
+    "definition": "红茶",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "交番",
+    "phonetic": "こうばん",
+    "definition": "派出所",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "声",
+    "phonetic": "こえ",
+    "definition": "声音",
+    "example": "連 大［おお］きな声（大声）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "午後",
+    "phonetic": "ごご",
+    "definition": "下午",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "九日",
+    "phonetic": "ここのか",
+    "definition": "九天；九日，九号",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "九つ",
+    "phonetic": "ここのつ",
+    "definition": "九，九个；九岁",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "午前",
+    "phonetic": "ごぜん",
+    "definition": "上午",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "答え",
+    "phonetic": "こたえ",
+    "definition": "回答，答复",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "今年",
+    "phonetic": "ことし",
+    "definition": "今年",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "言葉",
+    "phonetic": "ことば",
+    "definition": "语言",
+    "example": "合 言葉遣い［ことばづかい］（说法，措辞）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "子ども",
+    "phonetic": "こども",
+    "definition": "儿童；自己的儿女",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "子どもさん",
+    "phonetic": "こどもさん",
+    "definition": "（您的）孩子",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "このあと",
+    "phonetic": "このあと",
+    "definition": "在此之后",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "この辺",
+    "phonetic": "このへん",
+    "definition": "这里，附近",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ご飯",
+    "phonetic": "ごはん",
+    "definition": "饭",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "今月",
+    "phonetic": "こんげつ",
+    "definition": "这个月",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "今週",
+    "phonetic": "こんしゅう",
+    "definition": "本周",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "今度",
+    "phonetic": "こんど",
+    "definition": "这次；下次",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "今晩",
+    "phonetic": "こんばん",
+    "definition": "今晚；钱包",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "魚",
+    "phonetic": "さかな",
+    "definition": "鱼",
+    "example": "連 魚を釣［つ］る（钓鱼）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "先",
+    "phonetic": "さき",
+    "definition": "前方；尖端；最初",
+    "example": "連 どうぞお先に（请先走）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "作文",
+    "phonetic": "さくぶん",
+    "definition": "作文",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "桜",
+    "phonetic": "さくら",
+    "definition": "樱花",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "さしみ",
+    "phonetic": "さしみ",
+    "definition": "生鱼片，刺身",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "雑誌",
+    "phonetic": "ざっし",
+    "definition": "杂志",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "砂糖",
+    "phonetic": "さとう",
+    "definition": "糖，砂糖",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "再来年",
+    "phonetic": "さらいねん",
+    "definition": "后年",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "三",
+    "phonetic": "さん",
+    "definition": "三",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "散歩",
+    "phonetic": "さんぽ",
+    "definition": "散步",
+    "example": "連 公園［こうえん］を散歩する（在公园散步）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "四",
+    "phonetic": "し",
+    "definition": "四",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "字",
+    "phonetic": "じ",
+    "definition": "字，文字",
+    "example": "連 字を書［か］く（写字）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "試合",
+    "phonetic": "しあい",
+    "definition": "比赛",
+    "example": "連 試合をする（进行比赛）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "塩",
+    "phonetic": "しお",
+    "definition": "盐",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "時間",
+    "phonetic": "じかん",
+    "definition": "时间",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "試験",
+    "phonetic": "しけん",
+    "definition": "考试",
+    "example": "連 試験を受［う］ける（参加考试）、試験に合格［ごうかく］する（考试及格；被录取）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "仕事",
+    "phonetic": "しごと",
+    "definition": "工作",
+    "example": "連 仕事に出［で］かける（去上班）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "辞書",
+    "phonetic": "じしょ",
+    "definition": "辞典，词典，字典",
+    "example": "連 辞書で調［しら］べる（查词典）；合 電子辞書［でんしじしょ］（电子词典）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "下",
+    "phonetic": "した",
+    "definition": "下面，底下",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "七",
+    "phonetic": "しち",
+    "definition": "七",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "質問",
+    "phonetic": "しつもん",
+    "definition": "询问，提问",
+    "example": "連 質問に答［こた］える（回答提问）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "自転車",
+    "phonetic": "じてんしゃ",
+    "definition": "自行车",
+    "example": "連 自転車に乗［の］る（骑自行车）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "字引",
+    "phonetic": "じびき",
+    "definition": "字典，词典，辞典",
+    "example": "連 字引を引［ひ］く（查字典）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "事務室",
+    "phonetic": "じむしつ",
+    "definition": "事务所，办公室",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "写真",
+    "phonetic": "しゃしん",
+    "definition": "照片",
+    "example": "連 写真をとる（照相，拍照）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "十",
+    "phonetic": "とお",
+    "definition": "十，十个；十岁",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "住所",
+    "phonetic": "じゅうしょ",
+    "definition": "住址，地址，住所",
+    "example": "連 住所を変更［へんこう］する（改变住址）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "授業",
+    "phonetic": "じゅぎょう",
+    "definition": "授课",
+    "example": "連 授業をさぼる（旷课）、授業を受［う］ける（听课）；合 授業料［じゅぎょうりょう］（学费）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "宿題",
+    "phonetic": "しゅくだい",
+    "definition": "作业",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "趣味",
+    "phonetic": "しゅみ",
+    "definition": "兴趣，爱好",
+    "example": "連 音楽［おんがく］に趣味を持［も］つ（爱好音乐）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "種類",
+    "phonetic": "しゅるい",
+    "definition": "种类",
+    "example": "連 種類が異［こと］なる（种类不同）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "順番",
+    "phonetic": "じゅんばん",
+    "definition": "顺序，次序；排号，轮流",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "しょうゆ",
+    "phonetic": "しょうゆ",
+    "definition": "酱油",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "食事",
+    "phonetic": "しょくじ",
+    "definition": "吃饭，进餐，饮食",
+    "example": "連 食事をとる（吃饭）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "食堂",
+    "phonetic": "しょくどう",
+    "definition": "食堂，餐厅",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "資料",
+    "phonetic": "しりょう",
+    "definition": "资料",
+    "example": "連 資料を集［あつ］める（收集资料）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "白",
+    "phonetic": "しろ",
+    "definition": "白，白色",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "新幹線",
+    "phonetic": "しんかんせん",
+    "definition": "新干线",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "心配",
+    "phonetic": "しんぱい",
+    "definition": "费心，操心；挂念，担心",
+    "example": "連 試験［しけん］を心配する（担心考试）、親［おや］に心配をかける（让父母担心）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "新聞",
+    "phonetic": "しんぶん",
+    "definition": "报纸",
+    "example": "連 新聞を見［み］る（看报纸）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "水泳",
+    "phonetic": "すいえい",
+    "definition": "游泳",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "水曜日",
+    "phonetic": "すいようび",
+    "definition": "周三，星期三",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "すし",
+    "phonetic": "すし",
+    "definition": "寿司",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "背",
+    "phonetic": "せ／せい",
+    "definition": "脊背；背后；身高",
+    "example": "連 背が高［たか］い（个子高）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "生活",
+    "phonetic": "せいかつ",
+    "definition": "生活",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "生徒",
+    "phonetic": "せいと",
+    "definition": "学生",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "せっけん",
+    "phonetic": "せっけん",
+    "definition": "肥皂",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "背広",
+    "phonetic": "せびろ",
+    "definition": "（男式）西装",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "千",
+    "phonetic": "せん",
+    "definition": "千",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "先月",
+    "phonetic": "せんげつ",
+    "definition": "上个月",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "先週",
+    "phonetic": "せんしゅう",
+    "definition": "上周",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "先生",
+    "phonetic": "せんせい",
+    "definition": "老师",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "洗濯",
+    "phonetic": "せんたく",
+    "definition": "洗衣服",
+    "example": "合 洗濯機［せんたくき］（洗衣机）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "掃除",
+    "phonetic": "そうじ",
+    "definition": "扫除，打扫",
+    "example": "連 庭［にわ］を掃除する（打扫院子）；合 大掃除［おおそうじ］（大扫除）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "外",
+    "phonetic": "そと",
+    "definition": "外，外部",
+    "example": "連 部屋［へや］のそと（屋外）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "そば",
+    "phonetic": "そば",
+    "definition": "附近，旁边；身旁",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "祖父",
+    "phonetic": "そふ",
+    "definition": "祖父",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "祖母",
+    "phonetic": "そぼ",
+    "definition": "祖母",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "空",
+    "phonetic": "そら",
+    "definition": "天空；大学",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "大使館",
+    "phonetic": "たいしかん",
+    "definition": "大使馆",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "台所",
+    "phonetic": "だいどころ",
+    "definition": "厨房",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "建物",
+    "phonetic": "たてもの",
+    "definition": "建筑物",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "棚",
+    "phonetic": "たな",
+    "definition": "架子",
+    "example": "合 本棚［ほんだな］（书架）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "楽しみ",
+    "phonetic": "たのしみ",
+    "definition": "愉快，乐趣",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "たばこ",
+    "phonetic": "たばこ",
+    "definition": "香烟",
+    "example": "連 たばこを吸［す］う（吸烟，抽烟）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "食べ物",
+    "phonetic": "たべもの",
+    "definition": "食物，食品",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "卵",
+    "phonetic": "たまご",
+    "definition": "鸡蛋",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "誕生日",
+    "phonetic": "たんじょうび",
+    "definition": "生日",
+    "example": "連 お誕生日おめでとう（生日快乐）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "近く",
+    "phonetic": "ちかく",
+    "definition": "近处，附近",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "地下鉄",
+    "phonetic": "ちかてつ",
+    "definition": "地铁",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "地図",
+    "phonetic": "ちず",
+    "definition": "地图",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "父",
+    "phonetic": "ちち",
+    "definition": "父亲，爸爸",
+    "example": "合 父親［ちちおや］（父亲）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "茶色",
+    "phonetic": "ちゃいろ",
+    "definition": "褐色",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "茶碗",
+    "phonetic": "ちゃわん",
+    "definition": "茶碗，饭碗",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "注文",
+    "phonetic": "ちゅうもん",
+    "definition": "点（餐），订购；要求",
+    "example": "連 料理［りょうり］を注文する（点菜）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "次",
+    "phonetic": "つぎ",
+    "definition": "其次，下一个",
+    "example": "連 次の日［ひ］（第二天，翌日）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "机",
+    "phonetic": "つくえ",
+    "definition": "书桌，桌子",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "妻",
+    "phonetic": "つま",
+    "definition": "妻子",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "手",
+    "phonetic": "て",
+    "definition": "手，胳膊",
+    "example": "連 手を洗［あら］う（洗手）；合 左手［ひだりて］（左手）、右手［みぎて］（右手）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "手紙",
+    "phonetic": "てがみ",
+    "definition": "信，信件",
+    "example": "連 手紙を書［か］く（写信）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "出口",
+    "phonetic": "でぐち",
+    "definition": "出口",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "天気",
+    "phonetic": "てんき",
+    "definition": "天气",
+    "example": "合 天気予報［てんきよほう］（天气预报）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "電気",
+    "phonetic": "でんき",
+    "definition": "电；电灯",
+    "example": "連 電気を消［け］す（关灯）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "電車",
+    "phonetic": "でんしゃ",
+    "definition": "电车",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "電話",
+    "phonetic": "でんわ",
+    "definition": "电话；打电话",
+    "example": "連 電話をかける（打电话）；合 携帯［けいたい］電話（手机）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "戸",
+    "phonetic": "と",
+    "definition": "门",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "動物",
+    "phonetic": "どうぶつ",
+    "definition": "动物",
+    "example": "合 動物園［どうぶつえん］（动物园）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "十日",
+    "phonetic": "とおか",
+    "definition": "十号，十日",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "時計",
+    "phonetic": "とけい",
+    "definition": "钟表",
+    "example": "合 腕時計［うでどけい］（手表）、目覚まし時計［めざましどけい］（闹钟）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "所",
+    "phonetic": "ところ",
+    "definition": "场所，地点；处，部分；部位，位置",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "年",
+    "phonetic": "とし",
+    "definition": "年；年龄；年代，岁月",
+    "example": "連 新［あたら］しい年を迎［むか］える（迎接新的一年）、年をとる（上年纪）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "図書館",
+    "phonetic": "としょかん",
+    "definition": "图书馆",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "隣",
+    "phonetic": "となり",
+    "definition": "邻居；旁边，隔壁",
+    "example": "連 隣の席［せき］（旁边的座位）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "友達",
+    "phonetic": "ともだち",
+    "definition": "朋友",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "土曜日",
+    "phonetic": "どようび",
+    "definition": "周六，星期六",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "鳥",
+    "phonetic": "とり",
+    "definition": "鸟",
+    "example": "合 焼き鳥［やきとり］（烤鸡肉串）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "鳥肉",
+    "phonetic": "とりにく",
+    "definition": "鸡肉；中，里面",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "夏",
+    "phonetic": "なつ",
+    "definition": "夏天",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "夏休み",
+    "phonetic": "なつやすみ",
+    "definition": "暑假",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "七つ",
+    "phonetic": "ななつ",
+    "definition": "七，七个；七岁",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "七日",
+    "phonetic": "なのか",
+    "definition": "七号，七日",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "名前",
+    "phonetic": "なまえ",
+    "definition": "名字",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "二",
+    "phonetic": "に",
+    "definition": "二",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "肉",
+    "phonetic": "にく",
+    "definition": "肉",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "西",
+    "phonetic": "にし",
+    "definition": "西",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "日曜日",
+    "phonetic": "にちようび",
+    "definition": "周日，星期天",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "日本人",
+    "phonetic": "にほんじん",
+    "definition": "日本人",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "荷物",
+    "phonetic": "にもつ",
+    "definition": "行李，货物",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "庭",
+    "phonetic": "にわ",
+    "definition": "庭院",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "猫",
+    "phonetic": "ねこ",
+    "definition": "猫",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "飲み物",
+    "phonetic": "のみもの",
+    "definition": "饮料；牙齿",
+    "example": "連 歯を磨［みが］く（刷牙）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "灰皿",
+    "phonetic": "はいざら",
+    "definition": "烟灰缸",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "葉書",
+    "phonetic": "はがき",
+    "definition": "明信片",
+    "example": "連 葉書を出［だ］す（寄明信片）；合 絵葉書［えはがき］（美术明信片）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "箱",
+    "phonetic": "はこ",
+    "definition": "盒子，箱子",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "はさみ",
+    "phonetic": "はさみ",
+    "definition": "剪子，剪刀",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "橋",
+    "phonetic": "はし",
+    "definition": "桥",
+    "example": "連 橋を架［か］ける（架桥）、橋を渡［わた］る（过桥）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "箸",
+    "phonetic": "はし",
+    "definition": "筷子",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "初め／始め",
+    "phonetic": "はじめ",
+    "definition": "开始，开头；最初",
+    "example": "連 年［とし］の初め（年初）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "場所",
+    "phonetic": "ばしょ",
+    "definition": "场所，地点",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "二十歳",
+    "phonetic": "はたち",
+    "definition": "二十岁",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "八",
+    "phonetic": "はち",
+    "definition": "八",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "二十日",
+    "phonetic": "はつか",
+    "definition": "20号，20日",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "鼻",
+    "phonetic": "はな",
+    "definition": "鼻子",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "花",
+    "phonetic": "はな",
+    "definition": "花",
+    "example": "連 花が咲［さ］く（花开）；合 花見［はなみ］［赏（樱）花］",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "話",
+    "phonetic": "はなし",
+    "definition": "话，说话，谈话",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "母",
+    "phonetic": "はは",
+    "definition": "母亲，妈妈",
+    "example": "合 母親［ははおや］（母亲）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "春",
+    "phonetic": "はる",
+    "definition": "春天",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "晩",
+    "phonetic": "ばん",
+    "definition": "晚上，夜里",
+    "example": "連 朝［あさ］から晩まで（从早到晚）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "番号",
+    "phonetic": "ばんごう",
+    "definition": "号码",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "晩ご飯",
+    "phonetic": "ばんごはん",
+    "definition": "晚饭",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "半分",
+    "phonetic": "はんぶん",
+    "definition": "一半，半个",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "東",
+    "phonetic": "ひがし",
+    "definition": "东，东边",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "飛行機",
+    "phonetic": "ひこうき",
+    "definition": "飞机",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "左",
+    "phonetic": "ひだり",
+    "definition": "左，左边",
+    "example": "合 左側［ひだりがわ］（左侧）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "豚肉",
+    "phonetic": "ぶたにく",
+    "definition": "猪肉",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "人",
+    "phonetic": "ひと",
+    "definition": "人，人类",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "一つ",
+    "phonetic": "ひとつ",
+    "definition": "一，一个；一岁",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "一月",
+    "phonetic": "ひとつき",
+    "definition": "一个月",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "一人",
+    "phonetic": "ひとり",
+    "definition": "一个人",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "暇",
+    "phonetic": "ひま",
+    "definition": "空闲，时间，工夫",
+    "example": "連 暇がある（有空闲）、暇がかかる（费工夫）、暇をつぶす（消磨时间）；合 暇つぶし（消磨时间）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "百",
+    "phonetic": "ひゃく",
+    "definition": "百",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "百点",
+    "phonetic": "ひゃくてん",
+    "definition": "一百分，满分",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "病院",
+    "phonetic": "びょういん",
+    "definition": "医院",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "病気",
+    "phonetic": "びょうき",
+    "definition": "病，疾病",
+    "example": "連 病気になる（生病）、病気にかかる（患病）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "平仮名",
+    "phonetic": "ひらがな",
+    "definition": "平假名",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "昼",
+    "phonetic": "ひる",
+    "definition": "白天；中午",
+    "example": "合 昼休み［ひるやすみ］（午休）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "昼ご飯",
+    "phonetic": "ひるごはん",
+    "definition": "午饭",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "封筒",
+    "phonetic": "ふうとう",
+    "definition": "信封",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "服",
+    "phonetic": "ふく",
+    "definition": "衣服",
+    "example": "連 服を着［き］る（穿衣服）、服を脱［ぬ］ぐ（脱衣服）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "二つ",
+    "phonetic": "ふたつ",
+    "definition": "二，两个；两岁",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "二人",
+    "phonetic": "ふたり",
+    "definition": "两个人",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "二日",
+    "phonetic": "ふつか",
+    "definition": "二号，二日",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "船",
+    "phonetic": "ふね",
+    "definition": "船",
+    "example": "連 船に乗［の］る（乘船）、船で行［い］く（坐船去）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "冬",
+    "phonetic": "ふゆ",
+    "definition": "冬天",
+    "example": "連 冬になる（到了冬天）；合 冬休み［ふゆやすみ］（寒假）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "部屋",
+    "phonetic": "へや",
+    "definition": "屋子，房间",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "勉強",
+    "phonetic": "べんきょう",
+    "definition": "学习",
+    "example": "連 数学［すうがく］を勉強する（学习数学）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "帽子",
+    "phonetic": "ぼうし",
+    "definition": "帽子",
+    "example": "連 帽子をかぶる（戴帽子）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ほか",
+    "phonetic": "ほか",
+    "definition": "其他，另外",
+    "example": "連 ほかの人［ひと］（其他人）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "本",
+    "phonetic": "ほん",
+    "definition": "书",
+    "example": "連 本を読［よ］む（看书）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "本棚",
+    "phonetic": "ほんだな",
+    "definition": "书架",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "本当",
+    "phonetic": "ほんとう",
+    "definition": "真的；每天早上",
+    "example": "連 本当の話［はなし］（真话）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "毎月",
+    "phonetic": "まいげつ／まいつき",
+    "definition": "每个月",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "毎週",
+    "phonetic": "まいしゅう",
+    "definition": "每周",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "毎日",
+    "phonetic": "まいにち",
+    "definition": "每天",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "毎年",
+    "phonetic": "まいねん／まいとし",
+    "definition": "每年",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "毎晩",
+    "phonetic": "まいばん",
+    "definition": "每天晚上",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "前",
+    "phonetic": "まえ",
+    "definition": "前，前面",
+    "example": "連 前へ進［すす］む（前进）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "町",
+    "phonetic": "まち",
+    "definition": "城，镇，城市",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "窓",
+    "phonetic": "まど",
+    "definition": "窗户",
+    "example": "連 窓を開［あ］ける（开窗）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "万",
+    "phonetic": "まん",
+    "definition": "万",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "万年筆",
+    "phonetic": "まんねんひつ",
+    "definition": "钢笔",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "右",
+    "phonetic": "みぎ",
+    "definition": "右，右边",
+    "example": "合 右側［みぎがわ］（右侧）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "水",
+    "phonetic": "みず",
+    "definition": "水",
+    "example": "連 水を飲［の］む（喝水）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "店",
+    "phonetic": "みせ",
+    "definition": "商店，店铺",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "道",
+    "phonetic": "みち",
+    "definition": "道路",
+    "example": "連 道を尋［たず］ねる（问路）、道に迷［まよ］う（迷路）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "三日",
+    "phonetic": "みっか",
+    "definition": "三号，三日",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "三つ",
+    "phonetic": "みっつ",
+    "definition": "三，三个；三岁",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "緑",
+    "phonetic": "みどり",
+    "definition": "绿，绿色",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "みなさん",
+    "phonetic": "みなさん",
+    "definition": "大家，各位",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "南",
+    "phonetic": "みなみ",
+    "definition": "南",
+    "example": "合 南向［む］き（朝南）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "耳",
+    "phonetic": "みみ",
+    "definition": "耳朵",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "みんな",
+    "phonetic": "みんな",
+    "definition": "大家，全体，都",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "六日",
+    "phonetic": "むいか",
+    "definition": "六号，六日",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "向こう",
+    "phonetic": "むこう",
+    "definition": "对面，正面，前方；那边",
+    "example": "連 向こうの家［いえ］（对面的房子）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "六つ",
+    "phonetic": "むっつ",
+    "definition": "六，六个；六岁",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "目",
+    "phonetic": "め",
+    "definition": "眼睛",
+    "example": "連 目が悪［わる］い（视力不好）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "めがね",
+    "phonetic": "めがね",
+    "definition": "眼镜",
+    "example": "連 めがねをかける（戴眼镜）、めがねをはずす（摘下眼镜）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "木曜日",
+    "phonetic": "もくようび",
+    "definition": "周四，星期四",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "物",
+    "phonetic": "もの",
+    "definition": "物，东西",
+    "example": "連 物を大切［たいせつ］にする（爱惜物品）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "門",
+    "phonetic": "もん",
+    "definition": "门",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "問題",
+    "phonetic": "もんだい",
+    "definition": "题，问题；菜店",
+    "example": "連 問題を解［と］く（解题）；合 練習［れんしゅう］問題（练习题）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "野菜",
+    "phonetic": "やさい",
+    "definition": "蔬菜",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "休み",
+    "phonetic": "やすみ",
+    "definition": "休息；休假，假日",
+    "example": "連 休みをとる（请假）；合 夏［なつ］休み（暑假）、冬［ふゆ］休み（寒假）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "八つ",
+    "phonetic": "やっつ",
+    "definition": "八，八个；八岁",
+    "example": "連 りんごを八つ［やっつ］買［か］う（买八个苹果）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "山",
+    "phonetic": "やま",
+    "definition": "山",
+    "example": "連 山に登［のぼ］る（爬山）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "夕方",
+    "phonetic": "ゆうがた",
+    "definition": "傍晚",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "夕飯",
+    "phonetic": "ゆうはん",
+    "definition": "晚饭",
+    "example": "連 夕飯を食［た］べる(吃晚饭)",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "郵便局",
+    "phonetic": "ゆうびんきょく",
+    "definition": "邮局",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "雪",
+    "phonetic": "ゆき",
+    "definition": "雪",
+    "example": "連 雪が降［ふ］る(下雪)",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "八日",
+    "phonetic": "ようか",
+    "definition": "八号，八日",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "洋服",
+    "phonetic": "ようふく",
+    "definition": "(西式)衣服",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "横",
+    "phonetic": "よこ",
+    "definition": "横；侧面；旁边",
+    "example": "連 机［つくえ］の横におく（放在桌子旁边）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "四つ",
+    "phonetic": "よっつ",
+    "definition": "四，四个；四岁",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "夜",
+    "phonetic": "よる",
+    "definition": "夜晚；下个月",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "来週",
+    "phonetic": "らいしゅう",
+    "definition": "下周",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "来年",
+    "phonetic": "らいねん",
+    "definition": "明年",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "留学生",
+    "phonetic": "りゅうがくせい",
+    "definition": "留学生",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "両親",
+    "phonetic": "りょうしん",
+    "definition": "父母，双亲",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "料理",
+    "phonetic": "りょうり",
+    "definition": "烹饪；菜肴，饭菜",
+    "example": "合 家庭［かてい］料理（家常菜）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "旅行",
+    "phonetic": "りょこう",
+    "definition": "旅行",
+    "example": "合 海外［かいがい］旅行（海外旅行）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "れい",
+    "phonetic": "れい",
+    "definition": "零",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "冷蔵庫",
+    "phonetic": "れいぞうこ",
+    "definition": "电冰箱",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "練習",
+    "phonetic": "れんしゅう",
+    "definition": "练习",
+    "example": "合 練習問題［もんだい］（练习题）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "六",
+    "phonetic": "ろく",
+    "definition": "六；山葵；（比「あちら」更口语化）那儿，那里；那个",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "あれ",
+    "phonetic": "あれ",
+    "definition": "那，那个；那时；那件事",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ここ",
+    "phonetic": "ここ",
+    "definition": "这里",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "こちら",
+    "phonetic": "こちら",
+    "definition": "这里；这位；我",
+    "example": "連 こちらは中村「なかむら」さんです（这位是中村先生）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "こっち",
+    "phonetic": "こっち",
+    "definition": "（比「こちら」更口语化）这边；我（们）",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "これ",
+    "phonetic": "これ",
+    "definition": "这，这个",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "それ",
+    "phonetic": "それ",
+    "definition": "那，那个",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "誰",
+    "phonetic": "だれ",
+    "definition": "谁",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "どこ",
+    "phonetic": "どこ",
+    "definition": "哪里",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "どちら",
+    "phonetic": "どちら",
+    "definition": "哪里；（2个事物中）哪个；那位",
+    "example": "連 失礼「しつれい」ですが、どちらさまですか（冒昧问一下，您是哪位？）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "どっち",
+    "phonetic": "どっち",
+    "definition": "（比「どちら」更口语化）哪一位",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "どなた",
+    "phonetic": "どなた",
+    "definition": "（「だれ」的敬语）哪一位",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "どれ",
+    "phonetic": "どれ",
+    "definition": "（3个以上的事物中）哪个，哪一个",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "あそこ",
+    "phonetic": "あそこ",
+    "definition": "那儿，那里",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "あちら",
+    "phonetic": "あちら",
+    "definition": "那儿，那里；那个",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "あなた",
+    "phonetic": "あなた",
+    "definition": "你",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "いつ",
+    "phonetic": "いつ",
+    "definition": "几点，什么时候",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "自分",
+    "phonetic": "じぶん",
+    "definition": "自己，自身；我",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "そこ",
+    "phonetic": "そこ",
+    "definition": "那边，那里",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "そちら",
+    "phonetic": "そちら",
+    "definition": "那边",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "そっち",
+    "phonetic": "そっち",
+    "definition": "（比「そちら」更口语化）那边",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "何",
+    "phonetic": "なに／なん",
+    "definition": "何，什么",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "僕",
+    "phonetic": "ぼく",
+    "definition": "（男性自称）我",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "私",
+    "phonetic": "わたくし",
+    "definition": "（比「わたし」郑重的自称）我",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "上がる",
+    "phonetic": "あがる",
+    "definition": "上，登；提高，上升",
+    "example": "連 階段［かいだん］を上がる（上楼梯）、物価［ぶっか］が上がる（物价上涨）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "開く",
+    "phonetic": "あく",
+    "definition": "打开；开张",
+    "example": "連 ドアが開く（门开了）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "開ける",
+    "phonetic": "あける",
+    "definition": "打开，翻开；开张",
+    "example": "連 ドアを開ける（开门）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "上げる",
+    "phonetic": "あげる",
+    "definition": "举高；提高",
+    "example": "連 手［て］を上げる（举手）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "あげる",
+    "phonetic": "あげる",
+    "definition": "给予，赠送",
+    "example": "連 プレゼントをあげる（赠送礼物）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "遊ぶ",
+    "phonetic": "あそぶ",
+    "definition": "玩耍",
+    "example": "連 公園［こうえん］で遊ぶ（在公园游玩）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "浴びる",
+    "phonetic": "あびる",
+    "definition": "淋，洗浴",
+    "example": "連 シャワーを浴［あ］びる（洗淋浴）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "洗う",
+    "phonetic": "あらう",
+    "definition": "洗",
+    "example": "連 顔［かお］を洗う（洗脸）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ある",
+    "phonetic": "ある",
+    "definition": "有，在",
+    "example": "連 庭［にわ］には池［いけ］がある（院子里有个池塘）、本社［ほんしゃ］は東京［とうきょう］にある（总公司在东京）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "歩く",
+    "phonetic": "あるく",
+    "definition": "走，步行",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "言う",
+    "phonetic": "いう",
+    "definition": "说，讲；称作，叫做",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "行く",
+    "phonetic": "いく",
+    "definition": "去，前往",
+    "example": "連 駅［えき］へ行く（去车站）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "要る",
+    "phonetic": "いる",
+    "definition": "要，需要",
+    "example": "連 金［かね］が要る（需要钱）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "いる",
+    "phonetic": "いる",
+    "definition": "有，在",
+    "example": "連 家［いえ］にいる（待在家里）、わたしは子［こ］どもがふたりいます（我有两个孩子）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "入れる",
+    "phonetic": "いれる",
+    "definition": "装，放入；集中；倒（茶、咖啡等）",
+    "example": "連 冷蔵庫［れいぞうこ］に入れる（放入冰箱）、お茶［ちゃ］を入れる（泡茶，沏茶）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "歌う",
+    "phonetic": "うたう",
+    "definition": "唱歌",
+    "example": "連 歌［うた］を歌［うた］う（唱歌）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "生まれる",
+    "phonetic": "うまれる",
+    "definition": "诞生，娩出；产生，新成立",
+    "example": "連 子［こ］どもが生まれる（孩子诞生）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "売る",
+    "phonetic": "うる",
+    "definition": "卖，销售",
+    "example": "連 商品［しょうひん］を売る（销售商品）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "おいでになる",
+    "phonetic": "おいでになる",
+    "definition": "（「来る」「行く」「いる」的敬语）来，去，在，光临",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "起きる",
+    "phonetic": "おきる",
+    "definition": "起床；不睡觉；起身，站起来；发生，产生",
+    "example": "連 6時［ろくじ］に起きる（6点起床）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "置く",
+    "phonetic": "おく",
+    "definition": "放，搁，放置",
+    "example": "連 荷物［にもつ］を置く（放行李）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "教える",
+    "phonetic": "おしえる",
+    "definition": "教，传授；告诉，指点",
+    "example": "連 英語［えいご］を教える（教英语）、秘密［ひみつ］を教える（告诉秘密）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "押す",
+    "phonetic": "おす",
+    "definition": "按，压，摁；推，挤",
+    "example": "連 ボタンを押す（按按钮）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "覚える",
+    "phonetic": "おぼえる",
+    "definition": "记住",
+    "example": "連 新［あたら］しい言葉［ことば］を覚［おぼ］える（记新单词）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "思う",
+    "phonetic": "おもう",
+    "definition": "想，认为",
+    "example": "連 これでよいと思う（我觉得这样就可以）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "泳ぐ",
+    "phonetic": "およぐ",
+    "definition": "游，游泳",
+    "example": "連 海［うみ］で泳ぐ（在海里游泳）、魚［さかな］が川［かわ］で泳ぐ（鱼在河里游）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "降りる",
+    "phonetic": "おりる",
+    "definition": "下（楼），下（车），降落",
+    "example": "連 電車［でんしゃ］を／から降りる（下电车）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "終わる",
+    "phonetic": "おわる",
+    "definition": "完，结束",
+    "example": "連 夏休み［なつやすみ］が終わる（暑假结束）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "買う",
+    "phonetic": "かう",
+    "definition": "买，购买",
+    "example": "連 新聞［しんぶん］を買いに行［い］く（去买报纸）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "返す",
+    "phonetic": "かえす",
+    "definition": "归还，还原",
+    "example": "連 贈り物［おくりもの］を返す（退还礼物）、借金［しゃっきん］を返す（还钱）；慣 白紙［はくし］に返す（恢复原状；从头做起）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "帰る",
+    "phonetic": "かえる",
+    "definition": "返回，回到",
+    "example": "連 家［いえ］に帰る（回家）、ふるさとに帰る（回乡）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "掛かる",
+    "phonetic": "かかる",
+    "definition": "花费，需要",
+    "example": "連 お金［かね］がかかる(需要花一些钱）、時間［じかん］がかかる（需要花一些时间）；慣 気［き］にかかる（担心，挂念）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "書く",
+    "phonetic": "かく",
+    "definition": "写，书写；写作",
+    "example": "連 手紙［てがみ］を書く（写信）、小説［しょうせつ］を書く（写小说）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "掛ける",
+    "phonetic": "かける",
+    "definition": "花费，需要；打（电话）；戴（眼镜）",
+    "example": "連 時間［じかん］をかける（花时间）、電話［でんわ］をかける（打电话）、めがねをかける（戴眼镜）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "貸す",
+    "phonetic": "かす",
+    "definition": "借出，借给",
+    "example": "連 金［かね］を貸す（借钱给别人）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "かぶる",
+    "phonetic": "かぶる",
+    "definition": "戴，盖",
+    "example": "連 帽子［ぼうし］をかぶる（戴帽子）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "借りる",
+    "phonetic": "かりる",
+    "definition": "借（钱、东西等）",
+    "example": "連 本［ほん］を借りる（向别人借书）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "考える",
+    "phonetic": "かんがえる",
+    "definition": "想，思考",
+    "example": "連 将来［しょうらい］を考える（考虑将来）、方法［ほうほう］を考える（想办法）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "消える",
+    "phonetic": "きえる",
+    "definition": "熄灭；消失",
+    "example": "連 火［ひ］が消える（火熄灭）、痛［いた］みが消える（疼痛消失）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "聞く",
+    "phonetic": "きく",
+    "definition": "听；问，询问",
+    "example": "連 音楽［おんがく］を聞く（听音乐）、先生［せんせい］に聞く（询问老师）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "決まる",
+    "phonetic": "きまる",
+    "definition": "定，决定",
+    "example": "連 考［かんが］えが決まる（主意已定）、勝負［しょうぶ］が決まる（胜负已定）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "決める",
+    "phonetic": "きめる",
+    "definition": "决定",
+    "example": "連 帰国［きこく］を決める（决定回国）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "着る",
+    "phonetic": "きる",
+    "definition": "穿（衣服）",
+    "example": "連 服［ふく］を着る（穿衣服）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "切る",
+    "phonetic": "きる",
+    "definition": "切，割，砍",
+    "example": "連 ナイフでパンを切る（用刀切面包）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "来る",
+    "phonetic": "くる",
+    "definition": "来；到来",
+    "example": "連 電車［でんしゃ］が来る（电车来了）、春［はる］が来る（春天到了）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "消す",
+    "phonetic": "けす",
+    "definition": "扑灭，熄灭；消除，抹去；关掉，切断（电源）",
+    "example": "連 火［ひ］を消す（灭火）、テレビを消す（关电视）；合 消しゴム（橡皮）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "答える",
+    "phonetic": "こたえる",
+    "definition": "回答，答复",
+    "example": "連 質問［しつもん］に答える（回答提问）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "困る",
+    "phonetic": "こまる",
+    "definition": "为难，苦恼",
+    "example": "連 返事［へんじ］に困る（不好回答）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "咲く",
+    "phonetic": "さく",
+    "definition": "花开，绽放",
+    "example": "連 花［はな］が咲く（花开）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "死ぬ",
+    "phonetic": "しぬ",
+    "definition": "死",
+    "example": "連 病気［びょうき］で死ぬ（死于疾病）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "閉まる",
+    "phonetic": "しまる",
+    "definition": "（门、窗等）关闭；关门，停止营业",
+    "example": "連 ドアが閉まる（门关着）、店［みせ］が閉まる（商店停止营业）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "閉める",
+    "phonetic": "しめる",
+    "definition": "关（门、窗等）；关门，打烊",
+    "example": "連 窓［まど］を閉める（关窗）、店［みせ］を閉める（歇业）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "締める",
+    "phonetic": "しめる",
+    "definition": "系紧，勒紧",
+    "example": "連 シートベルトを締める（系安全带）、ネクタイを締める（系领带）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "調べる",
+    "phonetic": "しらべる",
+    "definition": "调查，查找",
+    "example": "連 原因［げんいん］を調べる（查找原因）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "知る",
+    "phonetic": "しる",
+    "definition": "懂，知道；认识，熟识；掌握，会使用",
+    "example": "連 意味［いみ］を知る（懂得意思）、知っている人［ひと］（认识的人）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "吸う",
+    "phonetic": "すう",
+    "definition": "吸入，吸收",
+    "example": "連 タバコを吸［す］う（吸烟）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "すく",
+    "phonetic": "すく",
+    "definition": "空旷，稀疏；有空，有时间",
+    "example": "連 おなかがすく（肚子饿）、電車［でんしゃ］がすく（电车很空）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "住む",
+    "phonetic": "すむ",
+    "definition": "住，居住",
+    "example": "連 東京［とうきょう］に住む（住在东京）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "する",
+    "phonetic": "する",
+    "definition": "做，干",
+    "example": "連 勉強［べんきょう］をする（学习）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "座る",
+    "phonetic": "すわる",
+    "definition": "坐",
+    "example": "連 畳［たたみ］に座る（坐在榻榻米上）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "出す",
+    "phonetic": "だす",
+    "definition": "送出；提供，提出",
+    "example": "連 手紙［てがみ］を出す（寄信）、レポートを出す（提交报告）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "立つ",
+    "phonetic": "たつ",
+    "definition": "站，立",
+    "example": "連 席［せき］を立つ（离席）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "頼む",
+    "phonetic": "たのむ",
+    "definition": "委托，请求；靠，依赖",
+    "example": "連 借金［しゃっきん］を頼む（请求借钱）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "食べる",
+    "phonetic": "たべる",
+    "definition": "吃",
+    "example": "連 ご飯［はん］を食べる（吃饭）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "違う",
+    "phonetic": "ちがう",
+    "definition": "不同，有差异；错，不对",
+    "example": "連 意見［いけん］が違う（意见不同）、答［こた］えが違う（答案不对）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "使う",
+    "phonetic": "つかう",
+    "definition": "用，使用",
+    "example": "連 道具［どうぐ］を使う（使用工具）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "疲れる",
+    "phonetic": "つかれる",
+    "definition": "累，疲劳",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "着く",
+    "phonetic": "つく",
+    "definition": "到达",
+    "example": "連 東京［とうきょう］に着く（到达东京）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "作る",
+    "phonetic": "つくる",
+    "definition": "做，造",
+    "example": "連 料理［りょうり］を作る（做菜）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "つける",
+    "phonetic": "つける",
+    "definition": "开（灯）；打开（开关）",
+    "example": "連 電気［でんき］をつける（开灯）、ラジオをつける（打开收音机）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "勤める",
+    "phonetic": "つとめる",
+    "definition": "上班，工作",
+    "example": "連 会社［かいしゃ］に勤める（在公司上班）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "出かける",
+    "phonetic": "でかける",
+    "definition": "外出",
+    "example": "連 買い物［かいもの］に出かける（出去买东西）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "できる",
+    "phonetic": "できる",
+    "definition": "做完，做好；建立，建成；出色，成绩好；有，发生",
+    "example": "連 宿題［しゅくだい］ができる（完成作业）、ビルができる（大厦建成）、友［とも］だちができる（交上朋友）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "手伝う",
+    "phonetic": "てつだう",
+    "definition": "帮忙，帮助",
+    "example": "連 家事［かじ］を手伝う（帮忙做家务）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "出る",
+    "phonetic": "でる",
+    "definition": "离开；出席；毕业",
+    "example": "連 教室［きょうしつ］を出る（离开教室）、会議［かいぎ］に出る（出席会议）、大学［だいがく］を出る（大学毕业）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "届く",
+    "phonetic": "とどく",
+    "definition": "送达；够到（某一地方）",
+    "example": "連 手紙［てがみ］が届く（信件送达）、手［て］が届く（手能够到）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "飛ぶ",
+    "phonetic": "とぶ",
+    "definition": "飞，飞行，飞翔",
+    "example": "連 鳥［とり］が空［そら］を飛ぶ（鸟在天上飞）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "泊まる",
+    "phonetic": "とまる",
+    "definition": "停泊；住宿，投宿",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "取る",
+    "phonetic": "とる",
+    "definition": "拿，取；上（年纪）；接受，采纳",
+    "example": "連 物［もの］を取る（拿东西）、年をとる（上年纪）、責任［せきにん］を取る（承担责任）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "撮る",
+    "phonetic": "とる",
+    "definition": "拍摄，照相",
+    "example": "連 写真［しゃしん］をとる（照相）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "鳴く",
+    "phonetic": "なく",
+    "definition": "啼，鸣叫",
+    "example": "連 鳥［とり］が鳴く（鸟啼）、虫［むし］が鳴く（虫鸣）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "習う",
+    "phonetic": "ならう",
+    "definition": "学习",
+    "example": "連 日本語［にほんご］を習う（学日语）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "並ぶ",
+    "phonetic": "ならぶ",
+    "definition": "排（队）；匹敌，比得上",
+    "example": "連 1列［いちれつ］に並ぶ（排成一行）、商店［しょうてん］が並んでいる（商店林立）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "並べる",
+    "phonetic": "ならべる",
+    "definition": "排列，摆放",
+    "example": "連 本棚［ほんだな］に本［ほん］を並べる（往书架上摆书）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "なる",
+    "phonetic": "なる",
+    "definition": "变成，成为；（某一时刻）来临",
+    "example": "連 美［うつく］しくなる（变美）、夏［なつ］になる（夏天来临）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "脱ぐ",
+    "phonetic": "ぬぐ",
+    "definition": "脱掉",
+    "example": "連 靴［くつ］を脱ぐ（脱鞋）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "寝る",
+    "phonetic": "ねる",
+    "definition": "睡觉；躺下",
+    "example": "連 ぐっすり寝る（熟睡）、寝ながら本［ほん］を読［よ］む（躺着看书）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "登る",
+    "phonetic": "のぼる",
+    "definition": "登，爬",
+    "example": "連 山［やま］を登る（登山）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "飲む",
+    "phonetic": "のむ",
+    "definition": "喝，吃（药）",
+    "example": "連 水［みず］を飲む（喝水）、薬［くすり］を飲む（吃药）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "乗る",
+    "phonetic": "のる",
+    "definition": "乘坐",
+    "example": "連 電車［でんしゃ］に乗る（乘坐电车）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "入る",
+    "phonetic": "はいる",
+    "definition": "进入；装入；含有",
+    "example": "連 お風呂［ふろ］に入る（泡澡）、部屋［へや］に入る（进入房间）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "はく",
+    "phonetic": "はく",
+    "definition": "穿（鞋、袜等）；穿（裤子、裙子等）",
+    "example": "連 くつをはく（穿鞋）、ズボンをはく（穿裤子）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "始まる",
+    "phonetic": "はじまる",
+    "definition": "开始",
+    "example": "連 映画［えいが］が始まる（电影开始放映）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "走る",
+    "phonetic": "はしる",
+    "definition": "跑，奔跑",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "働く",
+    "phonetic": "はたらく",
+    "definition": "工作，劳动",
+    "example": "連 会社［かいしゃ］で働く（在公司工作）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "話す",
+    "phonetic": "はなす",
+    "definition": "说，讲；告诉",
+    "example": "連 英語[えいご]を話す（说英语）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "払う",
+    "phonetic": "はらう",
+    "definition": "支付，付款",
+    "example": "連 お金［かね］を払う（付款）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "貼る",
+    "phonetic": "はる",
+    "definition": "贴，粘，糊",
+    "example": "連 切手［きって］を貼る（贴邮票）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "晴れる",
+    "phonetic": "はれる",
+    "definition": "（天）晴，（雨）停，（云）散",
+    "example": "連 空［そら］が晴れた（天晴了）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "弾く",
+    "phonetic": "ひく",
+    "definition": "拉，弹奏",
+    "example": "連 ギターを弾［ひ］く（弹吉他）、ピアノを弾［ひ］く（弹钢琴）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "踏む",
+    "phonetic": "ふむ",
+    "definition": "踩，踏",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "降る",
+    "phonetic": "ふる",
+    "definition": "下（雨、雪等）",
+    "example": "連 雨［あめ］が降る（下雨）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "間違える",
+    "phonetic": "まちがえる",
+    "definition": "搞错，弄错",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "待つ",
+    "phonetic": "まつ",
+    "definition": "等，等待",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "磨く",
+    "phonetic": "みがく",
+    "definition": "刷(净),擦(亮),磨(光)",
+    "example": "連 歯［は］を磨く（刷牙）、靴［くつ］を磨く（擦鞋）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "見せる",
+    "phonetic": "みせる",
+    "definition": "给……看，出示",
+    "example": "連 定期［ていき］を見せる（出示月票）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "見る",
+    "phonetic": "みる",
+    "definition": "看",
+    "example": "連 映画［えいが］を見る（看电影）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "持つ",
+    "phonetic": "もつ",
+    "definition": "持，拿；带，携带",
+    "example": "連 荷物［にもつ］を持つ（拿行李）、弁当［べんとう］を持って来［く］る（带饭过来）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "もらう",
+    "phonetic": "もらう",
+    "definition": "领取，获得",
+    "example": "連 給料［きゅうりょう］をもらう（领工资）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "休む",
+    "phonetic": "やすむ",
+    "definition": "歇，休息；睡觉，就寝；缺勤，缺席",
+    "example": "連 ゆっくり休む（好好休息）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "やる",
+    "phonetic": "やる",
+    "definition": "做，干",
+    "example": "連 宿題［しゅくだい］をやる（做作业）、ゲームをやる（玩游戏）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "呼ぶ",
+    "phonetic": "よぶ",
+    "definition": "叫，喊；叫来；邀请；叫做",
+    "example": "連 タクシーを呼ぶ（叫出租车）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "読む",
+    "phonetic": "よむ",
+    "definition": "念，朗读；看，阅读",
+    "example": "連 新聞［しんぶん］を読む（看报纸）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "分かる",
+    "phonetic": "わかる",
+    "definition": "知道，清楚；懂，会，理解",
+    "example": "連 英語［えいご］が分かる（懂英语）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "忘れる",
+    "phonetic": "わすれる",
+    "definition": "忘记",
+    "example": "連 電話番号［でんわばんごう］を忘れる（忘记电话号码）、宿題［しゅくだい］を忘れる（忘了做作业）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "渡す",
+    "phonetic": "わたす",
+    "definition": "交给，交付",
+    "example": "連 物［もの］を渡す（递东西）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "渡る",
+    "phonetic": "わたる",
+    "definition": "渡，过；蓝色的，绿色的",
+    "example": "連 海［うみ］を渡る（渡海）、道［みち］を渡る（过马路）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "赤い",
+    "phonetic": "あかい",
+    "definition": "红色的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "明るい",
+    "phonetic": "あかるい",
+    "definition": "明亮的；快活的",
+    "example": "連 性格［せいかく］が明るい（开朗的性格）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "暖かい／温かい",
+    "phonetic": "あたたかい",
+    "definition": "温暖的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "新しい",
+    "phonetic": "あたらしい",
+    "definition": "新的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "暑い",
+    "phonetic": "あつい",
+    "definition": "（天）热的，暑热的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "熱い",
+    "phonetic": "あつい",
+    "definition": "热的，烫人的",
+    "example": "連 熱いお茶［ちゃ］（热茶）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "厚い",
+    "phonetic": "あつい",
+    "definition": "厚的；诚挚的",
+    "example": "連 厚い本［ほん］（厚书）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "危ない",
+    "phonetic": "あぶない",
+    "definition": "危险的",
+    "example": "連 危ない道［みち］（危险的道路）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "甘い",
+    "phonetic": "あまい",
+    "definition": "甜的",
+    "example": "連 甘い果物［くだもの］（甜的水果）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "いい／よい",
+    "phonetic": "いい／よい",
+    "definition": "好的",
+    "example": "連 気持ち［きもち］がいい（心情愉快）、病気［びょうき］がよくなる（病情好转）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "忙しい",
+    "phonetic": "いそがしい",
+    "definition": "忙碌的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "痛い",
+    "phonetic": "いたい",
+    "definition": "疼痛的；（内心）痛苦的",
+    "example": "連 胃［い］が痛い（胃疼）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "薄い",
+    "phonetic": "うすい",
+    "definition": "薄的；（颜色、味道）淡的；（浓度、密度）低的",
+    "example": "連 薄い紙［かみ］（薄纸）、味［あじ］が薄い（味道淡）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "おいしい",
+    "phonetic": "おいしい",
+    "definition": "好吃的，美味的",
+    "example": "連 おいしい料理［りょうり］（好吃的菜）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "多い",
+    "phonetic": "おおい",
+    "definition": "多的",
+    "example": "連 日本［にほん］は地震［じしん］の多い国［くに］だ（日本是个地震频发的国家）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "大きい",
+    "phonetic": "おおきい",
+    "definition": "大的",
+    "example": "連 大きい会社［かいしゃ］（大公司）、生産量［せいさんりょう］が大きい（生产量大）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "遅い",
+    "phonetic": "おそい",
+    "definition": "慢的，迟缓的；晚的，迟的",
+    "example": "連 夜［よる］遅くまで働［はたら］く（夜里工作到很晚）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "重い",
+    "phonetic": "おもい",
+    "definition": "重的，沉重的；（情况、程度等）严重的",
+    "example": "連 重い石［いし］（沉重的石头）、心［こころ］が重い（心情沉重）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "おもしろい",
+    "phonetic": "おもしろい",
+    "definition": "有趣的；可笑的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "辛い",
+    "phonetic": "からい",
+    "definition": "辣的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "軽い",
+    "phonetic": "かるい",
+    "definition": "轻的；不重要的",
+    "example": "連 軽い荷物［にもつ］（轻便的行李）、責任［せきにん］が軽い（责任轻）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "かわいい",
+    "phonetic": "かわいい",
+    "definition": "可爱的，讨人喜欢的；小巧玲珑的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "黄色い",
+    "phonetic": "きいろい",
+    "definition": "黄色的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "汚い",
+    "phonetic": "きたない",
+    "definition": "脏的；肮脏的，卑鄙的",
+    "example": "連 汚い水［みず］（脏水）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "暗い",
+    "phonetic": "くらい",
+    "definition": "暗的，昏暗的，黑暗的",
+    "example": "連 部屋［へや］が暗い（屋子暗）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "黒い",
+    "phonetic": "くろい",
+    "definition": "黑色的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "寒い",
+    "phonetic": "さむい",
+    "definition": "寒冷的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "白い",
+    "phonetic": "しろい",
+    "definition": "白色的",
+    "example": "連 白い雲［くも］（白云）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "少ない",
+    "phonetic": "すくない",
+    "definition": "少的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "涼しい",
+    "phonetic": "すずしい",
+    "definition": "凉爽的",
+    "example": "連 涼しい秋［あき］（凉爽的秋天）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "狭い",
+    "phonetic": "せまい",
+    "definition": "狭窄的",
+    "example": "連 狭い庭［にわ］（狭小的院子）、狭い意味［いみ］（狭义）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "高い",
+    "phonetic": "たかい",
+    "definition": "高的",
+    "example": "連 背［せ］が高い（个子高）、値段［ねだん］が高い（价格高）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "正しい",
+    "phonetic": "ただしい",
+    "definition": "正确的",
+    "example": "連 正しい答［こた］え（正确的回答）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "楽しい",
+    "phonetic": "たのしい",
+    "definition": "愉快的，开心的",
+    "example": "連 楽しく過［す］ごす（愉快地度过）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "小さい",
+    "phonetic": "ちいさい",
+    "definition": "小的",
+    "example": "連 小さい部屋［へや］（小房间）、小さい頃［ごろ］（小的时候）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "近い",
+    "phonetic": "ちかい",
+    "definition": "近的",
+    "example": "連 近い将来［しょうらい］（不久的将来）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "つまらな",
+    "phonetic": "つまらな",
+    "definition": "无聊的，没有意思的",
+    "example": "連 つまらない小説［しょうせつ］（没有意思的小说）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "冷たい",
+    "phonetic": "つめたい",
+    "definition": "冷的，凉的；不热情的，冷淡的",
+    "example": "連 飲み物［のみもの］が冷たい（饮料很凉）、冷たい反応［はんのう］（反应冷淡）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "強い",
+    "phonetic": "つよい",
+    "definition": "强的",
+    "example": "連 強い体［からだ］（强壮的身体）、意志［いし］が強い（意志坚强）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "遠い",
+    "phonetic": "とおい",
+    "definition": "远的",
+    "example": "連 会社［かいしゃ］は駅［えき］から遠い（公司离车站很远）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ない",
+    "phonetic": "ない",
+    "definition": "无，没有",
+    "example": "連 お金［かね］がない（没钱）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "長い",
+    "phonetic": "ながい",
+    "definition": "长的",
+    "example": "連 長い文章［ぶんしょう］（长文）、長い夜［よる］（长夜）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "温い",
+    "phonetic": "ぬるい",
+    "definition": "温的，不凉不热的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "早い",
+    "phonetic": "はやい",
+    "definition": "早的",
+    "example": "連 朝［あさ］早く起［お］きる（早晨起得早）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "速い",
+    "phonetic": "はやい",
+    "definition": "快的",
+    "example": "連 足［あし］が速い（走路快）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "低い",
+    "phonetic": "ひくい",
+    "definition": "低的",
+    "example": "連 背［せ］が低い（个子矮）、温度［おんど］が低い（温度低）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "広い",
+    "phonetic": "ひろい",
+    "definition": "宽阔的；广泛的，广博的",
+    "example": "連 広い部屋［へや］（宽敞的房间）、視野［しや］が広い（视野宽广）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "古い",
+    "phonetic": "ふるい",
+    "definition": "旧的",
+    "example": "連 古い机［つくえ］（旧桌子）、古い遺跡［いせき］（古迹）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "欲しい",
+    "phonetic": "ほしい",
+    "definition": "想要得到的；希望发生的",
+    "example": "連 金［かね］がほしい（想要钱）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "細い",
+    "phonetic": "ほそい",
+    "definition": "细的，纤细的；窄的",
+    "example": "連 細く切［き］る（切细）、細い道［みち］（窄道）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "まずい",
+    "phonetic": "まずい",
+    "definition": "难吃的，不好吃的",
+    "example": "連 まずい料理［りょうり］（难吃的菜）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "丸い／円い",
+    "phonetic": "まるい",
+    "definition": "圆的，呈球形的",
+    "example": "連 丸いボール（圆球）、円い月［つき］（圆月）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "短い",
+    "phonetic": "みじかい",
+    "definition": "短的",
+    "example": "連 短い距離［きょり］（短距离）、短い期間［きかん］（短时期）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "難しい",
+    "phonetic": "むずかしい",
+    "definition": "难懂的；繁琐的，复杂的",
+    "example": "連 難しい文章［ぶんしょう］（难懂的文章）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "安い",
+    "phonetic": "やすい",
+    "definition": "便宜的",
+    "example": "連 値段［ねだん］が安い（价格便宜）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "弱い",
+    "phonetic": "よわい",
+    "definition": "弱的",
+    "example": "連 弱いチーム（弱队）、弱い光［ひかり］（弱光）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "若い",
+    "phonetic": "わかい",
+    "definition": "年轻的",
+    "example": "連 若い人［ひと］（年轻人）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "悪い",
+    "phonetic": "わるい",
+    "definition": "坏的，不好的；讨厌的，厌烦的",
+    "example": "連 悪い子［こ］（坏孩子）、成績［せいせき］が悪い（成绩差）；連 いやな顔［かお］をする（露出不耐烦的神色）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "いろいろな",
+    "phonetic": "いろいろな",
+    "definition": "各种各样的",
+    "example": "連 いろいろな品［しな］（各种各样的物品）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "大きな",
+    "phonetic": "おおきな",
+    "definition": "大的",
+    "example": "連 大きな音［おと］（巨响）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "同じ",
+    "phonetic": "おなじ",
+    "definition": "相同的，同样的",
+    "example": "連 同じ考［かんが］え（同样的想法）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "嫌いな",
+    "phonetic": "きらいな",
+    "definition": "不喜欢的，厌恶的",
+    "example": "連 きらいな物［もの］（不喜欢的东西）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "綺麗な",
+    "phonetic": "きれいな",
+    "definition": "美丽的，漂亮的；干净的",
+    "example": "連 きれいな花［はな］（漂亮的花）、部屋［へや］がきれいだ（房间很整洁）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "結構な",
+    "phonetic": "けっこうな",
+    "definition": "漂亮的，很好的；可以，足够；不用，不要",
+    "example": "連 結構な眺［なが］め（优美的景色）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "元気な",
+    "phonetic": "げんきな",
+    "definition": "精力充沛的；硬朗的",
+    "example": "連 お元気ですか（你过得好吗？）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "残念な",
+    "phonetic": "ざんねんな",
+    "definition": "遗憾的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "静かな",
+    "phonetic": "しずかな",
+    "definition": "安静的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "上手な",
+    "phonetic": "じょうずな",
+    "definition": "擅长的",
+    "example": "連 彼［かれ］は英語［えいご］がじょうずだ（他擅长英语）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "丈夫な",
+    "phonetic": "じょうぶな",
+    "definition": "健康的，健壮的；结实的，坚固的",
+    "example": "連 丈夫な体［からだ］（健壮的身体）、丈夫な机［つくえ］（结实的桌子）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "親切な",
+    "phonetic": "しんせつな",
+    "definition": "亲切的，善意的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "好きな",
+    "phonetic": "すきな",
+    "definition": "喜欢的",
+    "example": "連 好きな学科［がっか］（喜欢的科目）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "大丈夫な",
+    "phonetic": "だいじょうぶな",
+    "definition": "不要紧的，没关系的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "大好きな",
+    "phonetic": "だいすきな",
+    "definition": "非常喜欢的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "大切な",
+    "phonetic": "たいせつな",
+    "definition": "重要的，宝贵的",
+    "example": "連 大切な資源［しげん］（宝贵的资源）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "大変な",
+    "phonetic": "たいへんな",
+    "definition": "严重的，糟糕的；够受的，费劲的",
+    "example": "連 大変な火事［かじ］（严重的火灾）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "だめな",
+    "phonetic": "だめな",
+    "definition": "白费的，无用的；不可以，不行",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "小さな",
+    "phonetic": "ちいさな",
+    "definition": "小的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "賑やかな",
+    "phonetic": "にぎやかな",
+    "definition": "热闹的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "暇な",
+    "phonetic": "ひまな",
+    "definition": "闲暇的，空闲的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "下手な",
+    "phonetic": "へたな",
+    "definition": "不擅长的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "便利な",
+    "phonetic": "べんりな",
+    "definition": "便利的，方便的",
+    "example": "連 便利な道具［どうぐ］（好用的工具）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "こんな",
+    "phonetic": "こんな",
+    "definition": "这样的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "そんな",
+    "phonetic": "そんな",
+    "definition": "那样的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "あんな",
+    "phonetic": "あんな",
+    "definition": "那样的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "どんな",
+    "phonetic": "どんな",
+    "definition": "怎样的",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "有名な",
+    "phonetic": "ゆうめいな",
+    "definition": "著名的",
+    "example": "連 有名な画家［がか］（知名画家）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "立派な",
+    "phonetic": "りっぱな",
+    "definition": "优秀的，出色的，了不起的；（更远处的）那，那个",
+    "example": "連 りっぱな建物［たてもの］（宏伟的建筑）、りっぱな医者［いしゃ］（出色的医生）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "この",
+    "phonetic": "この",
+    "definition": "这，这个",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "その",
+    "phonetic": "その",
+    "definition": "那，那个",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "どの",
+    "phonetic": "どの",
+    "definition": "哪，哪个；（不）太，（不）怎么；太，过分",
+    "example": "連 あまりよくない（不太好）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "一番",
+    "phonetic": "いちばん",
+    "definition": "最，顶",
+    "example": "連 一番早［はや］い（最早）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "一緒に",
+    "phonetic": "いっしょに",
+    "definition": "一起，一同",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "いつも",
+    "phonetic": "いつも",
+    "definition": "经常；平时",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "大勢",
+    "phonetic": "おおぜい",
+    "definition": "很多人",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "きれいに",
+    "phonetic": "きれいに",
+    "definition": "整齐地，整洁地",
+    "example": "連 きれいに片付［かたづ］ける（收拾得很整洁）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "これから",
+    "phonetic": "これから",
+    "definition": "从现在起",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "先に",
+    "phonetic": "さきに",
+    "definition": "前，之前",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "さっき",
+    "phonetic": "さっき",
+    "definition": "刚才，方才",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "すぐに",
+    "phonetic": "すぐに",
+    "definition": "立刻，马上",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "少し",
+    "phonetic": "すこし",
+    "definition": "稍微，些许，一点点",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ぜひ",
+    "phonetic": "ぜひ",
+    "definition": "一定，必须，无论如何",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "全然",
+    "phonetic": "ぜんぜん",
+    "definition": "（后接否定表达）完全，根本",
+    "example": "連 ぜんぜんだめだ（根本不行）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "全部",
+    "phonetic": "ぜんぶ",
+    "definition": "全部，都",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "大抵",
+    "phonetic": "たいてい",
+    "definition": "大约，差不多",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "たいへん",
+    "phonetic": "たいへん",
+    "definition": "很，非常",
+    "example": "連 たいへん忙［いそが］しいです（非常忙）、たいへんお世話［せわ］になりました(承蒙您的诸多关照）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "たくさん",
+    "phonetic": "たくさん",
+    "definition": "许多，很多",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "たぶん",
+    "phonetic": "たぶん",
+    "definition": "恐怕，大概",
+    "example": "連 たぶんだめでしょう（大概不行吧）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "誰か",
+    "phonetic": "だれか",
+    "definition": "谁，某人",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "だんだん",
+    "phonetic": "だんだん",
+    "definition": "慢慢，渐渐",
+    "example": "連 だんだん増［ふ］える（逐渐增加）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ちょうど",
+    "phonetic": "ちょうど",
+    "definition": "正，整；刚，正要；正好，恰好；宛如",
+    "example": "連 ６時［ろくじ］ちょうど（6点整）、ちょうど出［で］たところ（刚出门）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ちょっと",
+    "phonetic": "ちょっと",
+    "definition": "一点，稍微",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "どう",
+    "phonetic": "どう",
+    "definition": "怎么，如何；怎么样",
+    "example": "連 どうでしたか（怎么了？）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "どうして",
+    "phonetic": "どうして",
+    "definition": "为什么；如何，怎么样",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "どうぞ",
+    "phonetic": "どうぞ",
+    "definition": "请",
+    "example": "連 お茶［ちゃ］をどうぞ（请喝茶）、どうぞ座［すわ］ってください（请坐）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "どうも",
+    "phonetic": "どうも",
+    "definition": "很，实在",
+    "example": "連 どうもありがとう（多谢）、どうもすみません（实在对不起）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "時々",
+    "phonetic": "ときどき",
+    "definition": "有时，偶尔",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "とても",
+    "phonetic": "とても",
+    "definition": "很，非常",
+    "example": "連 とてもおもしろい（非常有趣）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "なぜ",
+    "phonetic": "なぜ",
+    "definition": "为什么",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "はじめて",
+    "phonetic": "はじめて",
+    "definition": "初次，首次，第一次",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "はじめに",
+    "phonetic": "はじめに",
+    "definition": "最初，开始时",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "本当に",
+    "phonetic": "ほんとうに",
+    "definition": "真的，实在",
+    "example": "連 本当にうれしい（真的很高兴）、本当にありがとうございました（真的非常感谢）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "また",
+    "phonetic": "また",
+    "definition": "再，又，还",
+    "example": "連 またおいでください（欢迎再来）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "まだ",
+    "phonetic": "まだ",
+    "definition": "尚，还；仍然，现在还",
+    "example": "連 まだ終［お］わっていません（还没结束）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "まっすぐ",
+    "phonetic": "まっすぐ",
+    "definition": "直接，不绕弯",
+    "example": "連 この道［みち］をまっすぐ行［い］ってください（请沿着这条路直走）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "もう",
+    "phonetic": "もう",
+    "definition": "已经；快要；再，还",
+    "example": "連 もう終［お］わりました（已经结束了）、もう一つ［ひとつ］ください（请再给我一个）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "もう一度",
+    "phonetic": "もういちど",
+    "definition": "再一次",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "もっと",
+    "phonetic": "もっと",
+    "definition": "更，更加，再稍微",
+    "example": "連 もっとほしい（想要更多）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ゆっくり",
+    "phonetic": "ゆっくり",
+    "definition": "慢慢，不着急",
+    "example": "連 ゆっくり（と）話［はな］す（慢慢地说）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "よく",
+    "phonetic": "よく",
+    "definition": "经常；仔细地，充分地；但是，然而",
+    "example": "連 よく忘［わす］れる（经常忘记）、よく調［しら］べる（仔细调查）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "じゃ／じゃあ",
+    "phonetic": "じゃ／じゃあ",
+    "definition": "那样的话，那么",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "そうして／そして",
+    "phonetic": "そうして／そして",
+    "definition": "然后，于是；而且",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "それから",
+    "phonetic": "それから",
+    "definition": "接着，以后，其次；还有，再加上",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "それでは",
+    "phonetic": "それでは",
+    "definition": "那么；如果那样",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "では",
+    "phonetic": "では",
+    "definition": "（=それでは）那么；如果那样",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "でも",
+    "phonetic": "でも",
+    "definition": "可是，不过；（吃惊、感动）啊，哎呀；（打招呼）喂",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ああ",
+    "phonetic": "ああ",
+    "definition": "啊，哎呀",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "あの／あのう",
+    "phonetic": "あの／あのう",
+    "definition": "请问，那个",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "いいえ",
+    "phonetic": "いいえ",
+    "definition": "不，不是",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "うん",
+    "phonetic": "うん",
+    "definition": "嗯；哦",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ええ",
+    "phonetic": "ええ",
+    "definition": "（＝はい）对，是",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "さあ",
+    "phonetic": "さあ",
+    "definition": "表示催促或劝诱",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "はい",
+    "phonetic": "はい",
+    "definition": "是的；大约，大概，左右",
+    "example": "連 はい、そうです（是的）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ずつ",
+    "phonetic": "ずつ",
+    "definition": "每，各",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "だけ",
+    "phonetic": "だけ",
+    "definition": "只，仅仅",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "など",
+    "phonetic": "など",
+    "definition": "等，等等",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "から",
+    "phonetic": "から",
+    "definition": "（时间、空间的起点）从，自；所以；表示尊敬；表示礼貌、文雅",
+    "example": "合 お薬［くすり］（药）、お好［す］きなもの（您喜欢的东西）、お寺［てら］（寺庙）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "アパート",
+    "phonetic": "アパート",
+    "definition": "公寓",
+    "example": "連 アパートに住［す］む（住在公寓里）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "インターネット",
+    "phonetic": "インターネット",
+    "definition": "互联网，网络",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "エレベーター",
+    "phonetic": "エレベーター",
+    "definition": "(升降式）电梯",
+    "example": "連 エレベーターに乗［の］る（乘电梯）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "カップ",
+    "phonetic": "カップ",
+    "definition": "（有把的）茶杯",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "カメラ",
+    "phonetic": "カメラ",
+    "definition": "照相机",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "カレンダー",
+    "phonetic": "カレンダー",
+    "definition": "日历，月历，挂历",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "カラオケ",
+    "phonetic": "カラオケ",
+    "definition": "卡拉OK",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ギター",
+    "phonetic": "ギター",
+    "definition": "吉他",
+    "example": "連 ギターを弾［ひ］く（弹吉他）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "キログラム",
+    "phonetic": "キログラム",
+    "definition": "千克，公斤",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "キロメートル",
+    "phonetic": "キロメートル",
+    "definition": "千米，公里",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "クラス",
+    "phonetic": "クラス",
+    "definition": "班级；阶级，等级",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "グラス",
+    "phonetic": "グラス",
+    "definition": "玻璃杯",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "グラム",
+    "phonetic": "グラム",
+    "definition": "克；公分",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ケーキ",
+    "phonetic": "ケーキ",
+    "definition": "蛋糕",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ケース",
+    "phonetic": "ケース",
+    "definition": "盒子，箱子，柜子；事例，实例",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ゲーム",
+    "phonetic": "ゲーム",
+    "definition": "游戏",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "コート",
+    "phonetic": "コート",
+    "definition": "外套",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "コーヒー",
+    "phonetic": "コーヒー",
+    "definition": "咖啡",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "コップ",
+    "phonetic": "コップ",
+    "definition": "杯子",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "コピー",
+    "phonetic": "コピー",
+    "definition": "复印；复制，仿造",
+    "example": "合 コピー機［き］（复印机）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "コンサート",
+    "phonetic": "コンサート",
+    "definition": "音乐会",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "コンビニ",
+    "phonetic": "コンビニ",
+    "definition": "便利店",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "コンピューター",
+    "phonetic": "コンピューター",
+    "definition": "计算机，电脑",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "サッカー",
+    "phonetic": "サッカー",
+    "definition": "足球",
+    "example": "連 サッカーをする(踢足球）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "サンドイッチ",
+    "phonetic": "サンドイッチ",
+    "definition": "三明治",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "シャツ",
+    "phonetic": "シャツ",
+    "definition": "衬衫",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "シャワー",
+    "phonetic": "シャワー",
+    "definition": "淋浴",
+    "example": "連 シャワーを浴［あ］びる（洗淋浴）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ジュース",
+    "phonetic": "ジュース",
+    "definition": "果汁",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "スーツ",
+    "phonetic": "スーツ",
+    "definition": "西装",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "スーパー",
+    "phonetic": "スーパー",
+    "definition": "超市",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "スカート",
+    "phonetic": "スカート",
+    "definition": "裙子",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "スキー",
+    "phonetic": "スキー",
+    "definition": "滑雪",
+    "example": "連 スキーをする(滑雪）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "スケート",
+    "phonetic": "スケート",
+    "definition": "滑冰，溜冰",
+    "example": "連 スケートをする（滑冰）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ストーブ",
+    "phonetic": "ストーブ",
+    "definition": "炉子，暖炉",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "スプーン",
+    "phonetic": "スプーン",
+    "definition": "勺子",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "スポーツ",
+    "phonetic": "スポーツ",
+    "definition": "（体育）运动",
+    "example": "連 スポーツをする（运动，参加体育活动）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ズボン",
+    "phonetic": "ズボン",
+    "definition": "裤子",
+    "example": "連 ズボンをはく(穿裤子）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "スリッパ",
+    "phonetic": "スリッパ",
+    "definition": "拖鞋",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "セーター",
+    "phonetic": "セーター",
+    "definition": "毛衣",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ゼロ",
+    "phonetic": "ゼロ",
+    "definition": "零",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "タクシー",
+    "phonetic": "タクシー",
+    "definition": "出租车，计程车",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ダンス",
+    "phonetic": "ダンス",
+    "definition": "舞蹈",
+    "example": "連 ダンスをする（跳舞）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "チェックイン",
+    "phonetic": "チェックイン",
+    "definition": "登记（入住）",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "チケット",
+    "phonetic": "チケット",
+    "definition": "票",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "テープ",
+    "phonetic": "テープ",
+    "definition": "磁带，录音带",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "テープレコーダー",
+    "phonetic": "テープレコーダー",
+    "definition": "录音机",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "テーブル",
+    "phonetic": "テーブル",
+    "definition": "桌子，餐桌",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "テスト",
+    "phonetic": "テスト",
+    "definition": "考试",
+    "example": "連 テストを受［う］ける（参加考试）、テストに合格［ごうかく］する（考试及格）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "デパート",
+    "phonetic": "デパート",
+    "definition": "百货商店，百货公司",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "テレビ",
+    "phonetic": "テレビ",
+    "definition": "电视机",
+    "example": "連 テレビを見［み］る（看电视）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ドア",
+    "phonetic": "ドア",
+    "definition": "门",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "トイレ",
+    "phonetic": "トイレ",
+    "definition": "厕所",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ナイフ",
+    "phonetic": "ナイフ",
+    "definition": "小刀",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ニュース",
+    "phonetic": "ニュース",
+    "definition": "新闻",
+    "example": "連 ニュースを伝［つた］える（传播消息）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ネクタイ",
+    "phonetic": "ネクタイ",
+    "definition": "领带",
+    "example": "連 ネクタイを締［し］める(系领带）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ノート",
+    "phonetic": "ノート",
+    "definition": "笔记；笔记本",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "パーティー",
+    "phonetic": "パーティー",
+    "definition": "聚会，派对",
+    "example": "連 パーティーを開［ひら］く（举办派对）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "バス",
+    "phonetic": "バス",
+    "definition": "公交车，巴士",
+    "example": "連 バスで行［い］く（乘公交车去）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "バター",
+    "phonetic": "バター",
+    "definition": "黄油",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "パン",
+    "phonetic": "パン",
+    "definition": "面包",
+    "example": "合 パン屋［や］（面包店）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ハンカチ",
+    "phonetic": "ハンカチ",
+    "definition": "手帕",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "プール",
+    "phonetic": "プール",
+    "definition": "游泳池",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "フィルム",
+    "phonetic": "フィルム",
+    "definition": "胶卷",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "フォーク",
+    "phonetic": "フォーク",
+    "definition": "叉子",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ページ",
+    "phonetic": "ページ",
+    "definition": "页",
+    "example": "連 ページをめくる（翻页）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ベッド",
+    "phonetic": "ベッド",
+    "definition": "床",
+    "example": "合 シングル・ベッド（单人床）、ダブル・ベッド（双人床）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ペン",
+    "phonetic": "ペン",
+    "definition": "钢笔",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ボールペン",
+    "phonetic": "ボールペン",
+    "definition": "圆珠笔",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ポケット",
+    "phonetic": "ポケット",
+    "definition": "口袋",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ボタン",
+    "phonetic": "ボタン",
+    "definition": "纽扣，扣子",
+    "example": "連 ボタンを掛［か］ける（扣上纽扣）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ホテル",
+    "phonetic": "ホテル",
+    "definition": "宾馆，旅馆",
+    "example": "連 ホテルを予約［よやく］する（订旅馆）、ホテルに泊［と］まる（住旅馆）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "マッチ",
+    "phonetic": "マッチ",
+    "definition": "火柴",
+    "example": "連 マッチを擦［こす］る（划火柴）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "メートル",
+    "phonetic": "メートル",
+    "definition": "米，公尺",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ラジオ",
+    "phonetic": "ラジオ",
+    "definition": "收音机；无线电广播",
+    "example": "連 ラジオをつける（打开收音机）、ラジオを聞［き］く（听广播）",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "レコード",
+    "phonetic": "レコード",
+    "definition": "成绩，纪录；唱片",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "レストラン",
+    "phonetic": "レストラン",
+    "definition": "西餐厅",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  },
+  {
+    "word": "ワイシャツ",
+    "phonetic": "ワイシャツ",
+    "definition": "（男式）衬衫",
+    "example": "",
+    "language": "jp",
+    "source": "jp_n5"
+  }
+]

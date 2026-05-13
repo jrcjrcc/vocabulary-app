@@ -1,0 +1,57 @@
+Running Gradle task 'assembleRelease'...                        
+Font asset "MaterialIcons-Regular.otf" was tree-shaken, reducing it from 1645184 to 2708 bytes (99.8% reduction). Tree-shaking can be disabled by providing the --no-tree-shake-icons flag when building your app.
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:mergeReleaseNativeLibs'.
+> Could not resolve all files for configuration ':app:releaseRuntimeClasspath'.
+   > Failed to transform flutter_embedding_release-1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12.jar (io.flutter:flutter_embedding_release:1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12) to match attributes {artifactType=android-jni, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Could not download flutter_embedding_release-1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12.jar (io.flutter:flutter_embedding_release:1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12)
+         > Could not get resource 'https://storage.googleapis.com/download.flutter.io/io/flutter/flutter_embedding_release/1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12/flutter_embedding_release-1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12.jar'.
+            > Read timed out
+   > Failed to transform armeabi_v7a_release-1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12.jar (io.flutter:armeabi_v7a_release:1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12) to match attributes {artifactType=android-jni, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Could not download armeabi_v7a_release-1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12.jar (io.flutter:armeabi_v7a_release:1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12)
+         > Could not get resource 'https://storage.googleapis.com/download.flutter.io/io/flutter/armeabi_v7a_release/1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12/armeabi_v7a_release-1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12.jar'.
+            > Read timed out
+   > Failed to transform arm64_v8a_release-1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12.jar (io.flutter:arm64_v8a_release:1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12) to match attributes {artifactType=android-jni, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Could not download arm64_v8a_release-1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12.jar (io.flutter:arm64_v8a_release:1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12)
+         > Could not get resource 'https://storage.googleapis.com/download.flutter.io/io/flutter/arm64_v8a_release/1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12/arm64_v8a_release-1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12.jar'.
+            > Read timed out
+   > Failed to transform x86_64_release-1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12.jar (io.flutter:x86_64_release:1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12) to match attributes {artifactType=android-jni, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Could not download x86_64_release-1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12.jar (io.flutter:x86_64_release:1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12)
+         > Could not get resource 'https://storage.googleapis.com/download.flutter.io/io/flutter/x86_64_release/1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12/x86_64_release-1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12.jar'.
+            > Read timed out
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 15m 25s
+Running Gradle task 'assembleRelease'...                          925.7s
+[!] Gradle threw an error while downloading artifacts from the network.
+Retrying Gradle Build: #1, wait time: 100ms
+Running Gradle task 'assembleRelease'...                        
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:mergeReleaseNativeLibs'.
+> Could not resolve all files for configuration ':app:releaseRuntimeClasspath'.
+   > Failed to transform x86_64_release-1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12.jar (io.flutter:x86_64_release:1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12) to match attributes {artifactType=android-jni, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Could not download x86_64_release-1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12.jar (io.flutter:x86_64_release:1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12)
+         > Could not get resource 'https://storage.googleapis.com/download.flutter.io/io/flutter/x86_64_release/1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12/x86_64_release-1.0.0-052f31d115eceda8cbff1b3481fcde4330c4ae12.jar'.
+            > Read timed out
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 33m 5s
+Running Gradle task 'assembleRelease'...                         1986.0s
+[!] Gradle threw an error while downloading artifacts from the network.
+Gradle task assembleRelease failed with exit code 1

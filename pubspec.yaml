@@ -1,0 +1,34 @@
+name: vocabulary_app
+description: 背单词App - 日语N5-N1、英语六级、西班牙语基础词汇
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  provider: ^6.1.1
+  path_provider: ^2.1.1
+  share_plus: ^10.0.0
+  file_picker: ^8.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/vocab/en_cet6.json
+    - assets/vocab/es_basic.json
+    - assets/vocab/jp_n5.json
+    - assets/vocab/jp_n4.json
+    - assets/vocab/jp_n3.json
+    - assets/vocab/jp_n2.json
+    - assets/vocab/jp_n1.json
